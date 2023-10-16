@@ -1,6 +1,4 @@
-# ejercicios-kotlin-youtube
-
-Ejercicios de kotlin para practicar
+# Ejercicios de kotlin para practicar
 
 ## Basicos
 
