@@ -1,5 +1,0 @@
-4. Pide 3 numeros e indica cual de ellos es el mayor.
-
-5. Dado un numero de la semana, indica a que dia corresponde.
-
-6. Dado un año, indica si es un año bisiesto.
