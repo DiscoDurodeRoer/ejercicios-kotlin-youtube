@@ -8,4 +8,4 @@
 
 Youtube: https://youtu.be/_KFX4Tr3S8k
 
-#### Si te ha servido este repositorio, no te olvides de darle una estrella.
+Si te ha servido este repositorio, no te olvides de darle una estrella.
