@@ -19,3 +19,33 @@
 8. Muestra los numeros del 1 al 10 con un for y de 10 a 0 de dos en dos en otro for.
 
 9. Recorre una cadena caracter a caracter.
+
+## Funciones
+
+1. Crea un función llamada saludar que pasandole un nombre, nos salude.
+
+2. Crea una función que pasandole dos numeros devuelva la suma de ambos.
+
+3. Crea una función que pasandole un numero diga si es par o no.
+
+4. Crea una función que pasandole un numero devuelva el cuadrado del mismo. Hazlo solo en una linea.
+
+## Arrays
+
+1. Crea un array del 1 al 10. Usa emptyArray.
+
+2. Crea un array del 1 al 10. Usa IntArray.
+
+3. Crea un array del 1 al 10. Usa arrayOf.
+
+4. Crea un array del 1 al 5 y suma sus valores.
+
+5. Crea un array del 1 al 5 y obten la media.
+
+6. Crea un array e indica cual es el maximo y el minimo
+
+7. Crea dos arrays y compara si son iguales.
+
+8. Crea un array del 1 al 5 y desordenalos.
+
+9. Crea un array con valores desordenados y ordenalos.
